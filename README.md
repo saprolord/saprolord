@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saprolord
 - 👀 I’m a total noob at coding, with tiny knowledge of c++ and tinkerer of vba
-- 🌱 I’m currently learning htm and javascript
+- 🌱 I’m currently learning html, css and javascript
 
 
 <!---
